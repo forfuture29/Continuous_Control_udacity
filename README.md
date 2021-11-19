@@ -14,8 +14,6 @@ Reward:  +0.1 for each step that the agent's hand is in the goal location
 Enviroment Solved:  Average Reward for the lastest 100 episodes >=30.0
 
 
-# Getting Started
-
 1. First, we have to set up the environment by following the instructions in the [DRLND GitHub repository](https://github.com/udacity/deep-reinforcement-learning#dependencies)
 2. There are Two version of environments for this project, the first one is single agent while the second one is 20 identical agents. You can select any version based on your preference.
 
